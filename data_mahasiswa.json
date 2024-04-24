@@ -1,0 +1,12 @@
+{
+  "nim" : 211999098,
+  "nama" : "Nama Masing2",
+  "alamat" : "",
+  "jenis_kelamin" : "Laki-Laki",
+  "tanggal_lahir" : "2000-10-10",
+  "hobi" : [
+    "Denger Musik",
+    "Dst"
+  ],
+  "golongan_dara" : "O"
+}
